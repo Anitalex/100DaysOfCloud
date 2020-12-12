@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Carlos McCray's Cloud Journey
 
-[✍️ Introduce yourself]
+Hello, I am ready to get this started!  I use to be an engineer but moved to management and then to be a Director but I still miss being an engineer so I am getting back at it.  I already have the AZ-103 and its time to branch out more.  I have spent the last 13 years in the MSP world which is basically 100% operations and I have to learn the dev side too.  
 
-[✍️ Tell us why you started this challenge]
+I want to get more hands on training.  I want to have a good understanding how people who live in the dev world see cloud architecture versus my perspective.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I hopefully will have much further knowledge of the cloud on the perspective of the dev.  I hope to have created a new habit of tinkering every day.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/carlosmccray15)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/carlosmccray47)
 
 ## Stepping out the door
 
