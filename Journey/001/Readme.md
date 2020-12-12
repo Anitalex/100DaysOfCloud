@@ -8,4 +8,4 @@
 
 ## Social Proof
 
-[link](https://twitter.com/carlosmccray15/status/1337893711255134209)
+[Tweet](https://twitter.com/carlosmccray15/status/1337893711255134209)
